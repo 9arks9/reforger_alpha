@@ -6,7 +6,7 @@ from core.inventory import Inventory
 from core.fight import Fight
 import sys
 
-#18-07-2025
+#19-07-2025
 #Reforger alpha
 
 #@@IN-PROGRESS@@
